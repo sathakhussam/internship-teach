@@ -1,3 +1,3 @@
 ## Data Science
 
-This has the completed practice materials for DS
+This has the prep practice materials for DS
